@@ -1,0 +1,6 @@
+ruff
+pytest
+click
+black
+pytest-cov
+flask
